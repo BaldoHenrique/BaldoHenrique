@@ -4,15 +4,15 @@ I’m excited to start this new project in my life, I’m very dedicated for the
 
 I’m thank you for any conections, advices ans future opportunities that you can offer to me. #OpenToWork
 
-Currículo: https://drive.google.com/file/d/1-4kDBYo0ReK-jrGbaFQ4i1lnhImTaCCl/view?usp=sharing
+curriculum: https://drive.google.com/file/d/1-4kDBYo0ReK-jrGbaFQ4i1lnhImTaCCl/view?usp=sharing
 
 linkdin: https://www.linkedin.com/in/henrique-grandi-baldo/
 
-idioma: Inglês Avançado
+languages: Inglês Avançado
 
-Telefone: (51) 996776899
+Phone: (51) 996776899
 
-Seu e-mail: henriquegbaldo@hotmail.com
+E-mail: henriquegbaldo@hotmail.com
 
 ## Skills: 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
