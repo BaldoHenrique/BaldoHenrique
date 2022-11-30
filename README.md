@@ -1,5 +1,5 @@
 ## Hello, My name is Henrique Baldo! 
-I’m looking for new opportunities, challenges and expirience. I’m 27 year old and I’m working as demographie search manageer at IBGE for the moment. As the same time I’m studing data sciencie at Blue Edtech, a tech school with focus in the work tech market. 
+I’m looking for new opportunities, challenges and expirience. I’m 28 year old and I’m working as demographie search manageer at IBGE for the moment. As the same time I’m studing data sciencie at Blue Edtech, a tech school with focus in the work tech market. 
 I’m excited to start this new project in my life, I’m very dedicated for the new step. I’m a pearson with focus in solve problems, very pro ative and interested in keep improve.
 
 I’m thank you for any conections, advices ans future opportunities that you can offer to me. #OpenToWork
